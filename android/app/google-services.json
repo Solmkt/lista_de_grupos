@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3397232093",
+    "firebase_url": "https://lista-de-grupos-97f6b.firebaseio.com",
+    "project_id": "lista-de-grupos-97f6b",
+    "storage_bucket": "lista-de-grupos-97f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3397232093:android:1ee0a5d8309b3ab4",
+        "android_client_info": {
+          "package_name": "com.whatsapp.lista_de_grupos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3397232093-glsdl8fa5ivpprf5kfh7him14jslar5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoqZeyBSCZPpqIQ4YycV6uzX6lzgkZPdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3397232093-glsdl8fa5ivpprf5kfh7him14jslar5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
